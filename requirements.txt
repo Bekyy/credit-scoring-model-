@@ -8,3 +8,6 @@ plotly
 keras
 tensorflow
 Flask 
+monotonic-binning
+scorecardpy
+shap
