@@ -34,6 +34,7 @@ This project will focus on developing a robust credit scoring product that achie
 3.	Build a model that assigns a probability of default to new customers based on their characteristics.
 4.	Translate risk probability into a credit score that reflects the customer's creditworthiness.
 5.	Develop a model that predicts the optimal loan amount and duration for customers based on their risk profile.
+6. Model Serving API Call: FLASK API to serve the trained machine-learning models for real-time predictions.
 
 ## Major Tasks
 * Exploratory Data Analysis (EDA)
