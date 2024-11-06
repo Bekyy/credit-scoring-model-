@@ -40,7 +40,7 @@ This project will focus on developing a robust credit scoring product that achie
 * Exploratory Data Analysis (EDA)
 * Feature Engineering
 * Default estimator and WoE binning
-* Modelling
+* Modelling: Random Forest (RF) and Gradient Boosting Classifier (GBM)
 * Model Serving API Call
 
 ## Prerequests
